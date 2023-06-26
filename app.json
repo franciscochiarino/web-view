@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "web-vew",
-    "slug": "web-vew",
+    "name": "web-view",
+    "slug": "web-view",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
